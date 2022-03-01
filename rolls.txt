@@ -1,0 +1,27 @@
+title:Kyle's Wishlist
+
+// Cantata-57 - Low Flinch Handcannon (pvp)
+//notes: https://www.youtube.com/watch?v=g6CP13Z_PHU tags:pvp
+dimwishlist:item=372697604&perks=247725512,588594999
+
+
+// Ogma PR6 - Cool Guy Recommendation (pve)
+//notes: https://www.youtube.com/watch?v=FEMpIlMOTzE&list=PLrLi8aJFr3M7DkEfGOX7CVZK_22KKCpWS&index=19 tags:pve
+dimwishlist:item=2342054803&perks=3523296417,3592538738
+
+
+// Funnelweb - Funnelweb 1 (pve)
+//notes: https://www.youtube.com/watch?v=dl7ENuyhaxM tags:pve
+dimwishlist:item=3341893443&perks=1820235745,11612903
+
+
+// Funnelweb - Funnelweb 2 (pve)
+//notes: https://www.youtube.com/watch?v=dl7ENuyhaxM tags:pve
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+
+
+// Palmyra-B - High DPS  (pve)
+//notes: https://www.youtube.com/watch?v=_BGdu6Wr1qQ tags:pve
+dimwishlist:item=3489657138&perks=3300816228,3194351027
+
+
