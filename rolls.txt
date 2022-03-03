@@ -32,7 +32,7 @@ dimwishlist:item=1399109800&perks=201365942,3365897133
 
 // Fel Taradiddle - Super Fast Draw Time (pve)
 //notes: tags:pve
-dimwishlist:item=1399109800&perks=
+dimwishlist:item=1399109800&perks=3523746922,617966211
 
 
 // Forensic Nightmare - Up close Stasis (pve)
@@ -79,6 +79,16 @@ dimwishlist:item=2607304614&perks=1428297954,4082225868
 //notes: tags:pve
 dimwishlist:item=2721157927&perks=2308090567,2396489472
 dimwishlist:item=2721157927&perks=2284787283,2396489472
+
+
+// Krait - MyFi Recommends (pve)
+//notes: tags:pve
+dimwishlist:item=2852052802&perks=1820235745,4049631843
+dimwishlist:item=2852052802&perks=1820235745,124408337
+dimwishlist:item=2852052802&perks=1820235745,1546637391
+dimwishlist:item=2852052802&perks=3643424744,4049631843
+dimwishlist:item=2852052802&perks=3643424744,124408337
+dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
 // Red Herring - Meh Rockets (pve)
