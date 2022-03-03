@@ -1,13 +1,90 @@
 title:Kyle's Wishlist
 
+// Pointed Inquiry - Adaptive Munitions (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=297296830&perks=1658784563,1048183818
+
+
+// Pointed Inquiry - Shoot, Loot, Dragonfly (pve)
+//notes: tags:pve
+dimwishlist:item=297296830&perks=
+
+
 // Cantata-57 - Low Flinch Handcannon (pvp)
 //notes: https://www.youtube.com/watch?v=g6CP13Z_PHU tags:pvp
 dimwishlist:item=372697604&perks=247725512,588594999
 
 
+// Come to Pass - All for All (pve)
+//notes: tags:pve
+dimwishlist:item=927567426&perks=1583705720,4049631843
+
+
+// Come to Pass - Adaptive Munitions (pve)
+//notes: tags:pve
+dimwishlist:item=927567426&perks=3096702027,1048183818
+
+
+// Fel Taradiddle - Great Primary Explosives (pve)
+//notes: tags:pve
+dimwishlist:item=1399109800&perks=201365942,3365897133
+
+
+// Fel Taradiddle - Super Fast Draw Time (pve)
+//notes: tags:pve
+dimwishlist:item=1399109800&perks=
+
+
+// Forensic Nightmare - Up close Stasis (pve)
+//notes: tags:pve
+dimwishlist:item=1526296434&perks=1428297954,124408337
+
+
+// Forensic Nightmare - Straight Damage Stasis (pve)
+//notes: tags:pve
+dimwishlist:item=1526296434&perks=
+
+
+// Forensic Nightmare - Straight Damage v2 (pve)
+//notes: tags:pve
+dimwishlist:item=1526296434&perks=1428297954,1015611457
+
+
+// Forensic Nightmare - Great combo (pve)
+//notes: tags:pve
+dimwishlist:item=1526296434&perks=1631667848,4082225868
+
+
+// Likely Suspect - Super Fast Charge (god-pvp,pve)
+//notes: tags:god-pvp,pve
+dimwishlist:item=1994645182&perks=1570042021,2652708987
+
+
+// Likely Suspect - One Shot Yellow Bars (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1994645182&perks=1428297954,2610012052
+
+
 // Ogma PR6 - Cool Guy Recommendation (pve)
 //notes: https://www.youtube.com/watch?v=FEMpIlMOTzE&list=PLrLi8aJFr3M7DkEfGOX7CVZK_22KKCpWS&index=19 tags:pve
 dimwishlist:item=2342054803&perks=3523296417,3592538738
+
+
+// Empirical Evidence - It's okay (pve)
+//notes: tags:pve
+dimwishlist:item=2607304614&perks=1428297954,4082225868
+
+
+// Tarnation - Grenade Lauchers are Meh but maybe one day (pve)
+//notes: tags:pve
+dimwishlist:item=2721157927&perks=2308090567,2396489472
+dimwishlist:item=2721157927&perks=2284787283,2396489472
+
+
+// Red Herring - Meh Rockets (pve)
+//notes: tags:pve
+dimwishlist:item=3175851496&perks=3977735242,3927722942
+dimwishlist:item=3175851496&perks=2010801679,3927722942
 
 
 // Funnelweb - Funnelweb 1 (pve)
@@ -23,5 +100,18 @@ dimwishlist:item=3341893443&perks=1820235745,4104185692
 // Palmyra-B - High DPS  (pve)
 //notes: https://www.youtube.com/watch?v=_BGdu6Wr1qQ tags:pve
 dimwishlist:item=3489657138&perks=3300816228,3194351027
+
+
+// Father's Sins - Big Damage (pve)
+//notes: tags:pve
+dimwishlist:item=3865728990&perks=3400784728,2896038713
+
+
+// Father's Sins - Short Zoom PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=3865728990&perks=1645158859,957782887
+dimwishlist:item=3865728990&perks=1645158859,1370847713
+dimwishlist:item=3865728990&perks=3974407819,957782887
+dimwishlist:item=3865728990&perks=3974407819,1370847713
 
 
