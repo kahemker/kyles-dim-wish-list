@@ -116,6 +116,28 @@ dimwishlist:item=1994645182&perks=1570042021,2652708987
 dimwishlist:item=1994645182&perks=1428297954,2610012052
 
 
+// Piece of Mind - God Roll (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2402480669
+dimwishlist:item=2097055732&perks=839105230,1885400500,3643424744,2402480669
+
+
+// Piece of Mind - Cool Guy Recommends (pvp)
+//notes: tags:pvp
+dimwishlist:item=2097055732&perks=3643424744,2402480669
+dimwishlist:item=2097055732&perks=3643424744,711234314
+dimwishlist:item=2097055732&perks=3643424744,2748801589
+dimwishlist:item=2097055732&perks=2014892510,2402480669
+dimwishlist:item=2097055732&perks=2014892510,711234314
+dimwishlist:item=2097055732&perks=2014892510,2748801589
+
+
+// Piece of Mind - PvE (pve)
+//notes: tags:pve
+dimwishlist:item=2097055732&perks=2682205016,1546637391
+dimwishlist:item=2097055732&perks=1409206216,1546637391
+
+
 // Ogma PR6 - Cool Guy Recommendation (pve)
 //notes: https://www.youtube.com/watch?v=FEMpIlMOTzE&list=PLrLi8aJFr3M7DkEfGOX7CVZK_22KKCpWS&index=19 tags:pve
 dimwishlist:item=2342054803&perks=3523296417,3592538738
@@ -162,6 +184,11 @@ dimwishlist:item=2852052802&perks=3643424744,124408337
 dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
+// Krait - Good perk combo (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2852052802&perks=
+
+
 // Crisis Inverted - Tried and true (pvp)
 //notes: tags:pvp
 dimwishlist:item=2888266564&perks=588594999,1015611457
@@ -188,6 +215,11 @@ dimwishlist:item=3341893443&perks=1820235745,11612903
 // Funnelweb - Funnelweb 2 (pve)
 //notes: https://www.youtube.com/watch?v=dl7ENuyhaxM tags:pve
 dimwishlist:item=3341893443&perks=1820235745,4104185692
+
+
+// Funnelweb - Good perk combo (pvp)
+//notes: tags:pvp
+dimwishlist:item=3341893443&perks=1820235745,2896038713
 
 
 // Silicon Neuroma - Tried and true (pvp)
