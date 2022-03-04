@@ -42,6 +42,17 @@ dimwishlist:item=927567426&perks=1583705720,4049631843
 dimwishlist:item=927567426&perks=3096702027,1048183818
 
 
+// Sweet Sorrow - PvP Auto (god-pvp)
+//notes: Try counterbalance mod or icarus grip.   tags:god-pvp
+dimwishlist:item=1248372789&perks=3250034553,3142289711,2450788523,1523649716
+
+
+// Sweet Sorrow - PvP Auto (pvp)
+//notes: Try counterbalance mod or icarus grip.   tags:pvp
+dimwishlist:item=1248372789&perks=1523649716
+dimwishlist:item=1248372789&perks=2450788523
+
+
 // Silicon Neuroma (Adept) - Adept PvE (pve)
 //notes: tags:pve
 dimwishlist:item=1387987271&perks=3400784728,1771339417
