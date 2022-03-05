@@ -1,5 +1,28 @@
 title:Kyle's Wishlist
 
+// Under Your Skin - Hard too Miss (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=232928045&perks=2946784966,47981717
+
+
+// Under Your Skin - Super fast draw (pve)
+//notes: tags:pve
+dimwishlist:item=232928045&perks=3523746922,2652708987
+
+
+// Under Your Skin - Decent PvE Ideas (pve)
+//notes: tags:pve
+dimwishlist:item=232928045&perks=3118144663,1048183818
+dimwishlist:item=232928045&perks=3118144663,1551736345
+dimwishlist:item=232928045&perks=201365942,1048183818
+dimwishlist:item=232928045&perks=201365942,1551736345
+
+
+// Eyasluna - Stasis PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=235827225&perks=1561002382,2846385770,588594999
+
+
 // Pointed Inquiry - Adaptive Munitions (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=297296830&perks=1658784563,1048183818
@@ -7,12 +30,45 @@ dimwishlist:item=297296830&perks=1658784563,1048183818
 
 // Pointed Inquiry - Shoot, Loot, Dragonfly (pve)
 //notes: tags:pve
-dimwishlist:item=297296830&perks=
+dimwishlist:item=297296830&perks=3700496672,2848615171
+
+
+// Pointed Inquiry ()
+dimwishlist:item=297296830&perks=848860060,3431277734
+
+
+// Pointed Inquiry ()
+dimwishlist:item=297296830&perks=848860060,2896038713
+
+
+// Cantata-57 - Max Range and High Handling (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=372697604&perks=839105230,3142289711,699525795,47981717
 
 
 // Cantata-57 - Low Flinch Handcannon (pvp)
 //notes: https://www.youtube.com/watch?v=g6CP13Z_PHU tags:pvp
 dimwishlist:item=372697604&perks=247725512,588594999
+
+
+// Cantata-57 - Hit Flinch and max range on 1 shot (pvp)
+//notes: tags:pvp
+dimwishlist:item=372697604&perks=699525795,47981717
+
+
+// Cantata-57 - Reload fast to abused Suros Trait (pvp)
+//notes: tags:pvp
+dimwishlist:item=372697604&perks=671806388,588594999
+
+
+// Cantata-57 - Keep reloading and winning (pvp)
+//notes: tags:pvp
+dimwishlist:item=372697604&perks=671806388,2846385770
+
+
+// Cantata-57 - Better than quickdraw (pvp)
+//notes: tags:pvp
+dimwishlist:item=372697604&perks=3142289711,509074078,2846385770
 
 
 // Duty Bound - Shoot forever (pve)
@@ -94,6 +150,30 @@ dimwishlist:item=1526296434&perks=1428297954,1015611457
 dimwishlist:item=1526296434&perks=1631667848,4082225868
 
 
+// Recurrent Impact - Possible PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=1572896086&perks=1171887445
+
+
+// Recurrent Impact - Subsistence on a MG Looks Good (pve)
+//notes: tags:pve
+dimwishlist:item=1572896086&perks=1820235745,395388285
+dimwishlist:item=1572896086&perks=1820235745,1171887445
+dimwishlist:item=1572896086&perks=1820235745,4049631843
+dimwishlist:item=1572896086&perks=1820235745,3007133316
+dimwishlist:item=1572896086&perks=1820235745,2402480669
+
+
+// Gridskipper - PvP Pulse (pvp)
+//notes: tags:pvp
+dimwishlist:item=1621558458&perks=588594999,2458213969
+
+
+// Wastelander M5 - Fast PvP Shotgun (pvp)
+//notes: tags:pvp
+dimwishlist:item=1679868061&perks=1047830412,1428297954,47981717
+
+
 // Herod-C - Gambit PvE (pve)
 //notes: tags:pve
 dimwishlist:item=1788603939&perks=1820235745,4049631843
@@ -114,6 +194,12 @@ dimwishlist:item=1994645182&perks=1570042021,2652708987
 // Likely Suspect - One Shot Yellow Bars (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1994645182&perks=1428297954,2610012052
+
+
+// Likely Suspect - Fallout Ideas (pvp)
+//notes: tags:pvp
+dimwishlist:item=1994645182&perks=3920370755,617966211
+dimwishlist:item=1994645182&perks=1570042021,617966211
 
 
 // Piece of Mind - God Roll (god-pvp)
@@ -143,15 +229,48 @@ dimwishlist:item=2097055732&perks=1409206216,1546637391
 dimwishlist:item=2342054803&perks=3523296417,3592538738
 
 
+// Darkest Before - Dungeon Pulse (pve)
+//notes: tags:pve
+dimwishlist:item=2481758391&perks=3436462433,3592538738
+dimwishlist:item=2481758391&perks=3436462433,3425386926
+dimwishlist:item=2481758391&perks=706527188,3592538738
+dimwishlist:item=2481758391&perks=706527188,3425386926
+
+
 // Empirical Evidence - It's okay (pve)
 //notes: tags:pve
 dimwishlist:item=2607304614&perks=1428297954,4082225868
+
+
+// BxR-55 Battler - Grenade Throwing Pulse (pve)
+//notes: tags:pve
+dimwishlist:item=2708806099&perks=3523296417,11612903
+
+
+// BxR-55 Battler - Standard Good Roll (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2708806099&perks=1168162263,1015611457
+
+
+// BxR-55 Battler - Range Max Pulse (pvp)
+//notes: tags:pvp
+dimwishlist:item=2708806099&perks=2450788523,2846385770
+
+
+// BxR-55 Battler - Duelling Pulse (pvp)
+//notes: tags:pvp
+dimwishlist:item=2708806099&perks=1428297954,699525795
 
 
 // Tarnation - Grenade Lauchers are Meh but maybe one day (pve)
 //notes: tags:pve
 dimwishlist:item=2721157927&perks=2308090567,2396489472
 dimwishlist:item=2721157927&perks=2284787283,2396489472
+
+
+// Tarnation - Get Heavy, Get Super (pvp)
+//notes: tags:pvp
+dimwishlist:item=2721157927&perks=706527188,1172413778
 
 
 // Fortissimo-11 - PvP Combos (pvp)
@@ -237,6 +356,16 @@ dimwishlist:item=3355385170&perks=3400784728,1771339417
 dimwishlist:item=3489657138&perks=3300816228,3194351027
 
 
+// Pardon Our Dust - Kinetic Blinding Autoloading (pve)
+//notes: tags:pve
+dimwishlist:item=3849810018&perks=3032599245,3300816228
+
+
+// Father's Sins - Nasty Sniper (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3865728990&perks=3142289711,1645158859,957782887
+
+
 // Father's Sins - Big Damage (pve)
 //notes: tags:pve
 dimwishlist:item=3865728990&perks=3400784728,2896038713
@@ -248,5 +377,23 @@ dimwishlist:item=3865728990&perks=1645158859,957782887
 dimwishlist:item=3865728990&perks=1645158859,1370847713
 dimwishlist:item=3865728990&perks=3974407819,957782887
 dimwishlist:item=3865728990&perks=3974407819,1370847713
+
+
+// Thoughtless - Massive Mag (pve)
+//notes: tags:pve
+dimwishlist:item=4067556514&perks=2420895100,3643424744,1771339417
+
+
+// Thoughtless - PvP Possible (pvp)
+//notes: tags:pvp
+dimwishlist:item=4067556514&perks=2014892510,4116820839
+dimwishlist:item=4067556514&perks=280464955,4116820839
+
+
+// Explosive Personality - Another Waveframe is Great (pve)
+//notes: tags:pve
+dimwishlist:item=4096943616&perks=3300816228,4104185692
+dimwishlist:item=4096943616&perks=3300816228,1683379515
+dimwishlist:item=4096943616&perks=3300816228,4049631843
 
 
