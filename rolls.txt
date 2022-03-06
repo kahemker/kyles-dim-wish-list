@@ -196,6 +196,19 @@ dimwishlist:item=1621558458&perks=588594999,2458213969
 dimwishlist:item=1679868061&perks=1047830412,1428297954,47981717
 
 
+// Redback-5si - Possible God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1687353095&perks=3230963543,1583705720,3425386926
+
+
+// Redback-5si - Good perks (pve)
+//notes: tags:pve
+dimwishlist:item=1687353095&perks=1820235745,3425386926
+dimwishlist:item=1687353095&perks=1820235745,4049631843
+dimwishlist:item=1687353095&perks=1583705720,3425386926
+dimwishlist:item=1687353095&perks=1583705720,4049631843
+
+
 // Herod-C - Gambit PvE (pve)
 //notes: tags:pve
 dimwishlist:item=1788603939&perks=1820235745,4049631843
@@ -246,9 +259,37 @@ dimwishlist:item=2097055732&perks=2682205016,1546637391
 dimwishlist:item=2097055732&perks=1409206216,1546637391
 
 
+// Fugue-55 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2233545123&perks=2866798147,957782887
+
+
+// Fugue-55 (pve)
+//notes: tags:pve
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+dimwishlist:item=2233545123&perks=1354429876,1546637391
+dimwishlist:item=2233545123&perks=3300816228,1771339417
+dimwishlist:item=2233545123&perks=3300816228,1546637391
+
+
 // Ogma PR6 - Cool Guy Recommendation (pve)
 //notes: https://www.youtube.com/watch?v=FEMpIlMOTzE&list=PLrLi8aJFr3M7DkEfGOX7CVZK_22KKCpWS&index=19 tags:pve
 dimwishlist:item=2342054803&perks=3523296417,3592538738
+
+
+// Ogma PR6 - Crush Shields (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=1048183818,1683379515
+
+
+// Ogma PR6 - All for All (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=1583705720,4049631843
+dimwishlist:item=2342054803&perks=1583705720,3592538738
+dimwishlist:item=2342054803&perks=1583705720,11612903
+dimwishlist:item=2342054803&perks=1048183818,4049631843
+dimwishlist:item=2342054803&perks=1048183818,3592538738
+dimwishlist:item=2342054803&perks=1048183818,11612903
 
 
 // Darkest Before - Dungeon Pulse (pve)
@@ -417,5 +458,20 @@ dimwishlist:item=4067556514&perks=280464955,4116820839
 dimwishlist:item=4096943616&perks=3300816228,4104185692
 dimwishlist:item=4096943616&perks=3300816228,1683379515
 dimwishlist:item=4096943616&perks=3300816228,4049631843
+
+
+// Ragnhild-D - Fast Rate of Fire plus subsistance (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4225322581&perks=1482024992,791862061,1820235745,4104185692
+
+
+// Ragnhild-D - Large Mag Shotgun (pve)
+//notes: tags:pve
+dimwishlist:item=4225322581&perks=2420895100,1820235745,4104185692
+
+
+// Ragnhild-D - PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=4225322581&perks=1047830412,1428297954,3511092054
 
 
