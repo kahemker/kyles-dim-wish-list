@@ -88,6 +88,12 @@ dimwishlist:item=435216110&perks=3400784728,4104185692,1281216113
 dimwishlist:item=435216110&perks=3400784728,4049631843,1281216113
 
 
+// Contingency Plan (pvp)
+//notes: tags:pvp
+dimwishlist:item=577528837&perks=2946784966,1015611457
+dimwishlist:item=577528837&perks=3436462433,1015611457
+
+
 // Forbearance - Shield Breaker Godroll (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=613334176&perks=3096702027,2209918983
@@ -422,6 +428,53 @@ dimwishlist:item=2534546147&perks=3526486541,2224838837
 dimwishlist:item=2607304614&perks=1428297954,4082225868
 
 
+// Aisha's Embrace - Coolguy (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2638190703&perks=839105230,1561002382,2946784966,2458213969
+dimwishlist:item=2638190703&perks=3661387068,1561002382,2946784966,2458213969
+
+
+// Aisha's Embrace - Coolguy God roll PvE (god-pve)
+//notes: Void well font of might and volatile rounds tags:god-pve
+dimwishlist:item=2638190703&perks=839105230,1561002382,3400784728,1354429876
+dimwishlist:item=2638190703&perks=839105230,1561002382,3400784728,2896038713
+dimwishlist:item=2638190703&perks=839105230,1968497646,3400784728,1354429876
+dimwishlist:item=2638190703&perks=839105230,1968497646,3400784728,2896038713
+dimwishlist:item=2638190703&perks=839105230,3230963543,3400784728,1354429876
+dimwishlist:item=2638190703&perks=839105230,3230963543,3400784728,2896038713
+dimwishlist:item=2638190703&perks=3661387068,1561002382,3400784728,1354429876
+dimwishlist:item=2638190703&perks=3661387068,1561002382,3400784728,2896038713
+dimwishlist:item=2638190703&perks=3661387068,1968497646,3400784728,1354429876
+dimwishlist:item=2638190703&perks=3661387068,1968497646,3400784728,2896038713
+dimwishlist:item=2638190703&perks=3661387068,3230963543,3400784728,1354429876
+dimwishlist:item=2638190703&perks=3661387068,3230963543,3400784728,2896038713
+
+
+// Aisha's Embrace (pvp,pve)
+//notes: tags:pvp,pve
+dimwishlist:item=2638190703&perks=2946784966,2458213969
+
+
+// Aisha's Embrace (pvp)
+//notes: tags:pvp
+dimwishlist:item=2638190703&perks=3108830275,699525795
+dimwishlist:item=2638190703&perks=3108830275,2458213969
+dimwishlist:item=2638190703&perks=1428297954,699525795
+dimwishlist:item=2638190703&perks=1428297954,2458213969
+dimwishlist:item=2638190703&perks=2946784966,699525795
+dimwishlist:item=2638190703&perks=2946784966,2458213969
+
+
+// Aisha's Embrace - Coolguy (pve)
+//notes: tags:pve
+dimwishlist:item=2638190703&perks=3400784728,1354429876
+
+
+// Aisha's Embrace (pve)
+//notes: tags:pve
+dimwishlist:item=2638190703&perks=3400784728,2896038713
+
+
 // BxR-55 Battler - Grenade Throwing Pulse (pve)
 //notes: tags:pve
 dimwishlist:item=2708806099&perks=3523296417,11612903
@@ -483,9 +536,9 @@ dimwishlist:item=2852052802&perks=3643424744,124408337
 dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
-// Krait - Good perk combo (pve,pvp)
-//notes: tags:pve,pvp
-dimwishlist:item=2852052802&perks=
+// Krait - All for All (pve)
+//notes: tags:pve
+dimwishlist:item=2852052802&perks=1583705720,4049631843
 
 
 // Syncopation-53 - Headstone (pve)
@@ -594,6 +647,11 @@ dimwishlist:item=3428521585&perks=1570042021,3431277734
 dimwishlist:item=3428521585&perks=1570042021,1546637391
 dimwishlist:item=3428521585&perks=1570042021,4049631843
 dimwishlist:item=3428521585&perks=1570042021,3425386926
+
+
+// Insidious - Unique Roll (pve)
+//notes: tags:pve
+dimwishlist:item=3428521585&perks=3523296417,11612903
 
 
 // Palmyra-B - High DPS  (pve)
