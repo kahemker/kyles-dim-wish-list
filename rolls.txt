@@ -320,6 +320,23 @@ dimwishlist:item=1788603939&perks=1354429876,4104185692
 dimwishlist:item=1788603939&perks=1354429876,124408337
 
 
+// Razor's Edge (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1796949035&perks=3592538738,4049631843
+dimwishlist:item=1796949035&perks=2590710093,4049631843
+dimwishlist:item=1796949035&perks=3705817207,4049631843
+
+
+// Razor's Edge - Void + Chain Reactor Sword (pve)
+//notes: Volatile Flow and Volatile Rounds mods use devor tags:pve
+dimwishlist:item=1796949035&perks=2396489472
+
+
+// Razor's Edge (pve)
+//notes: tags:pve
+dimwishlist:item=1796949035&perks=1749209109,4104185692
+
+
 // Likely Suspect - Super Fast Charge (god-pvp,pve)
 //notes: tags:god-pvp,pve
 dimwishlist:item=1994645182&perks=1570042021,2652708987
@@ -744,6 +761,11 @@ dimwishlist:item=4067556514&perks=280464955,4116820839
 dimwishlist:item=4067556514&perks=3643424744,2896038713
 
 
+// Explosive Personality - Coolguy (god-pvp)
+//notes: Velocity Masterwork tags:god-pvp
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515
+
+
 // Explosive Personality - Another Waveframe is Great (pve)
 //notes: tags:pve
 dimwishlist:item=4096943616&perks=3300816228,4104185692
@@ -768,6 +790,12 @@ dimwishlist:item=4096943616&perks=4071163871,4104185692
 dimwishlist:item=4096943616&perks=2779035018,2610012052
 dimwishlist:item=4096943616&perks=2779035018,4049631843
 dimwishlist:item=4096943616&perks=2779035018,4104185692
+
+
+// Explosive Personality - Good PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=4096943616&perks=4071163871,4104185692
+dimwishlist:item=4096943616&perks=3300816228,4104185692
 
 
 // Snorri FR5 - Faster Reload for more reservior burst (pve)
