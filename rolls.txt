@@ -28,6 +28,23 @@ dimwishlist:item=232928045&perks=201365942,1551736345
 dimwishlist:item=235827225&perks=1561002382,2846385770,588594999
 
 
+// Nezarec's Whisper (pve)
+//notes: tags:pve
+dimwishlist:item=254636484&perks=3523296417,11612903
+dimwishlist:item=254636484&perks=3523296417,4104185692
+dimwishlist:item=254636484&perks=3523296417,1546637391
+dimwishlist:item=254636484&perks=1556840489,11612903
+dimwishlist:item=254636484&perks=1556840489,4104185692
+dimwishlist:item=254636484&perks=1556840489,1546637391
+dimwishlist:item=254636484&perks=951095735,11612903
+dimwishlist:item=254636484&perks=951095735,4104185692
+dimwishlist:item=254636484&perks=951095735,1546637391
+
+
+// Nezarec's Whisper ()
+dimwishlist:item=254636484&perks=3526486541,2224838837
+
+
 // The Title - Kackis (pve)
 //notes: tags:pve
 dimwishlist:item=294129361&perks=839105230,2420895100,1583705720,4049631843
@@ -303,6 +320,13 @@ dimwishlist:item=1248372789&perks=1583705720,4049631843
 dimwishlist:item=1248372789&perks=2450788523,1890422124
 
 
+// Tears of Contrition - Solid Scout (pve)
+//notes: Similar to Hung Jury  tags:pve
+dimwishlist:item=1366394399&perks=3400784728,3038247973
+dimwishlist:item=1366394399&perks=3400784728,1546637391
+dimwishlist:item=1366394399&perks=3400784728,1354429876
+
+
 // Silicon Neuroma (Adept) - Adept PvE (pve)
 //notes: tags:pve
 dimwishlist:item=1387987271&perks=3400784728,1771339417
@@ -475,6 +499,19 @@ dimwishlist:item=1796949035&perks=2396489472
 // Razor's Edge (pve)
 //notes: tags:pve
 dimwishlist:item=1796949035&perks=1749209109,4104185692
+
+
+// Bump in the Night (pve)
+//notes: tags:pve
+dimwishlist:item=1959650777&perks=3300816228,2978966579
+dimwishlist:item=1959650777&perks=3300816228,4104185692
+dimwishlist:item=1959650777&perks=3300816228,1546637391
+dimwishlist:item=1959650777&perks=2869569095,2978966579
+dimwishlist:item=1959650777&perks=2869569095,4104185692
+dimwishlist:item=1959650777&perks=2869569095,1546637391
+dimwishlist:item=1959650777&perks=3977735242,2978966579
+dimwishlist:item=1959650777&perks=3977735242,4104185692
+dimwishlist:item=1959650777&perks=3977735242,1546637391
 
 
 // Likely Suspect - Super Fast Charge (god-pvp,pve)
@@ -666,6 +703,35 @@ dimwishlist:item=2708806099&perks=2450788523,2846385770
 dimwishlist:item=2708806099&perks=1428297954,699525795
 
 
+// Riptide (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2715240478&perks=839105230,3868766766,1428297954,2652708987
+
+
+// Riptide ()
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+dimwishlist:item=2715240478&perks=3300816228,4104185692
+dimwishlist:item=2715240478&perks=3300816228,3523296417
+
+
+// Riptide ()
+dimwishlist:item=2715240478&perks=1556840489,3592538738
+dimwishlist:item=2715240478&perks=3300816228,3592538738
+
+
+// Riptide - PvP ideas (pvp)
+//notes: Max stability  tags:pvp
+dimwishlist:item=2715240478&perks=839105230,3868766766,1645158859,2652708987
+dimwishlist:item=2715240478&perks=839105230,3868766766,1428297954,2652708987
+dimwishlist:item=2715240478&perks=839105230,3868766766,1570042021,2652708987
+dimwishlist:item=2715240478&perks=4090651448,3868766766,1645158859,2652708987
+dimwishlist:item=2715240478&perks=4090651448,3868766766,1428297954,2652708987
+dimwishlist:item=2715240478&perks=4090651448,3868766766,1570042021,2652708987
+dimwishlist:item=2715240478&perks=1482024992,3868766766,1645158859,2652708987
+dimwishlist:item=2715240478&perks=1482024992,3868766766,1428297954,2652708987
+dimwishlist:item=2715240478&perks=1482024992,3868766766,1570042021,2652708987
+
+
 // Tarnation - Grenade Lauchers are Meh but maybe one day (pve)
 //notes: tags:pve
 dimwishlist:item=2721157927&perks=2308090567,2396489472
@@ -675,6 +741,14 @@ dimwishlist:item=2721157927&perks=2284787283,2396489472
 // Tarnation - Get Heavy, Get Super (pvp)
 //notes: tags:pvp
 dimwishlist:item=2721157927&perks=706527188,1172413778
+
+
+// Firefright ()
+dimwishlist:item=2778013407&perks=1354429876,2896038713
+
+
+// Firefright ()
+dimwishlist:item=2778013407&perks=4071163871,3708227201
 
 
 // Fortissimo-11 - PvP Combos (pvp)
@@ -1035,3 +1109,6 @@ dimwishlist:item=4225322581&perks=2420895100,1820235745,4104185692
 dimwishlist:item=4225322581&perks=1047830412,1428297954,3511092054
 
 
+// Without Remorse
+dimwishlist:item=1478986057&perks=1047830412,791862061,1583705720,4293542123
+dimwishlist:item=1478986057&perks=1047830412,791862061,2869569095,4293542123
