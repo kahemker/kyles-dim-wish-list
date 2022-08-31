@@ -134,6 +134,19 @@ dimwishlist:item=372697604&perks=671806388,2846385770
 dimwishlist:item=372697604&perks=3142289711,509074078,2846385770
 
 
+// Zaouli's Bane (pvp)
+//notes: tags:pvp
+dimwishlist:item=431721920&perks=3038247973,699525795
+dimwishlist:item=431721920&perks=47981717,699525795
+
+
+// Zaouli's Bane - Unique roll (pvp)
+//notes: tags:pvp
+dimwishlist:item=431721920&perks=1365187766,699525795
+dimwishlist:item=431721920&perks=1365187766,4293542123
+dimwishlist:item=431721920&perks=1365187766,3824105627
+
+
 // Duty Bound - Shoot forever (pve)
 //notes: tags:pve
 dimwishlist:item=435216110&perks=3400784728,1354429876
@@ -305,6 +318,23 @@ dimwishlist:item=1019000888&perks=4090651448,3142289711,1583705720,124408337
 dimwishlist:item=1019000888&perks=4090651448,3142289711,1583705720,1546637391
 
 
+// Mindbender's Ambition (pvp)
+//notes: tags:pvp
+dimwishlist:item=1094005544&perks=4071163871,744594675
+dimwishlist:item=1094005544&perks=4071163871,2451262963
+
+
+// Yesteryear (pvp)
+//notes: tags:pvp
+dimwishlist:item=1141927949&perks=1428297954,699525795
+dimwishlist:item=1141927949&perks=1428297954,1365187766
+dimwishlist:item=1141927949&perks=1428297954,2458213969
+dimwishlist:item=1141927949&perks=1428297954,3425386926
+dimwishlist:item=1141927949&perks=1428297954,2896038713
+dimwishlist:item=1141927949&perks=1428297954,2610012052
+dimwishlist:item=1141927949&perks=1428297954,3047969693
+
+
 // Sweet Sorrow - PvP Auto (god-pvp)
 //notes: Try counterbalance mod or icarus grip.   tags:god-pvp
 dimwishlist:item=1248372789&perks=3250034553,3142289711,2450788523,1523649716
@@ -343,6 +373,12 @@ dimwishlist:item=1399109800&perks=201365942,3365897133
 dimwishlist:item=1399109800&perks=3523746922,617966211
 
 
+// Blood Feud (pve)
+//notes: tags:pve
+dimwishlist:item=1509167284&perks=691659142,4082225868
+dimwishlist:item=1509167284&perks=691659142,744594675
+
+
 // Forensic Nightmare - Up close Stasis (pve)
 //notes: tags:pve
 dimwishlist:item=1526296434&perks=1428297954,124408337
@@ -363,6 +399,18 @@ dimwishlist:item=1526296434&perks=1428297954,1015611457
 dimwishlist:item=1526296434&perks=1631667848,4082225868
 
 
+// Allied Demand - Max Range (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1532276803&perks=202670084,3142289711,2846385770,591790007
+
+
+// Allied Demand (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=1532276803&perks=247725512,1365187766
+dimwishlist:item=1532276803&perks=247725512,4104185692
+dimwishlist:item=1532276803&perks=247725512,2458213969
+
+
 // Recurrent Impact - Possible PvP (pvp)
 //notes: tags:pvp
 dimwishlist:item=1572896086&perks=1171887445
@@ -375,6 +423,21 @@ dimwishlist:item=1572896086&perks=1820235745,1171887445
 dimwishlist:item=1572896086&perks=1820235745,4049631843
 dimwishlist:item=1572896086&perks=1820235745,3007133316
 dimwishlist:item=1572896086&perks=1820235745,2402480669
+
+
+// Whistler's Whim (pvp)
+//notes: tags:pvp
+dimwishlist:item=1574601402&perks=1015611457
+
+
+// Whistler's Whim (pvp)
+//notes: tags:pvp
+dimwishlist:item=1574601402&perks=588594999,11612903
+dimwishlist:item=1574601402&perks=588594999,4082225868
+dimwishlist:item=1574601402&perks=588594999,2652708987
+dimwishlist:item=1574601402&perks=2846385770,11612903
+dimwishlist:item=1574601402&perks=2846385770,4082225868
+dimwishlist:item=1574601402&perks=2846385770,2652708987
 
 
 // Enyo-D - Fallout (pvp)
@@ -501,6 +564,28 @@ dimwishlist:item=1796949035&perks=2396489472
 dimwishlist:item=1796949035&perks=1749209109,4104185692
 
 
+// Taipan-4fr - Massive DPS on Raid Bosses (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1911060537&perks=3400784728,1771339417
+
+
+// Doom of Chelchis (pve)
+//notes: tags:pve
+dimwishlist:item=1937552980&perks=1546637391,2896038713
+dimwishlist:item=1937552980&perks=1546637391,4049631843
+dimwishlist:item=1937552980&perks=1546637391,4104185692
+
+
+// Doom of Chelchis - Pyro Explode (pve)
+//notes: tags:pve
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+
+
+// Doom of Chelchis - All for All (pve)
+//notes: tags:pve
+dimwishlist:item=1937552980&perks=1583705720,4049631843
+
+
 // Bump in the Night (pve)
 //notes: tags:pve
 dimwishlist:item=1959650777&perks=3300816228,2978966579
@@ -566,6 +651,48 @@ dimwishlist:item=2097055732&perks=2682205016,1546637391
 dimwishlist:item=2097055732&perks=1409206216,1546637391
 
 
+// The Inquisitor (pve)
+//notes: tags:pve
+dimwishlist:item=2185327324&perks=1820235745,2610012052
+dimwishlist:item=2185327324&perks=1354429876,2610012052
+
+
+// The Inquisitor (pvp)
+//notes: tags:pvp
+dimwishlist:item=2185327324&perks=509074078,2451262963
+dimwishlist:item=2185327324&perks=509074078,47981717
+dimwishlist:item=2185327324&perks=509074078,438098033
+dimwishlist:item=2185327324&perks=1428297954,2451262963
+dimwishlist:item=2185327324&perks=1428297954,47981717
+dimwishlist:item=2185327324&perks=1428297954,438098033
+dimwishlist:item=2185327324&perks=2946784966,2451262963
+dimwishlist:item=2185327324&perks=2946784966,47981717
+dimwishlist:item=2185327324&perks=2946784966,438098033
+
+
+// Smite of Merain (pvp)
+//notes: tags:pvp
+dimwishlist:item=2221264583&perks=588594999,699525795
+dimwishlist:item=2221264583&perks=588594999,1365187766
+
+
+// Smite of Merain (pve)
+//notes: tags:pve
+dimwishlist:item=2221264583&perks=2896038713,4049631843
+
+
+// Smite of Merain ()
+dimwishlist:item=2221264583&perks=2896038713,1546637391
+
+
+// Smite of Merain ()
+dimwishlist:item=2221264583&perks=1583705720,4049631843
+
+
+// Smite of Merain ()
+dimwishlist:item=2221264583&perks=691659142,4082225868
+
+
 // Fugue-55 (pvp)
 //notes: tags:pvp
 dimwishlist:item=2233545123&perks=2866798147,957782887
@@ -611,6 +738,11 @@ dimwishlist:item=2481758391&perks=3436462433,3592538738
 dimwishlist:item=2481758391&perks=3436462433,3425386926
 dimwishlist:item=2481758391&perks=706527188,3592538738
 dimwishlist:item=2481758391&perks=706527188,3425386926
+
+
+// No Reprieve (pve)
+//notes: tags:pve
+dimwishlist:item=2531963421&perks=3400784728,2896038713
 
 
 // Lubrae's Ruin - Possible God Roll (god-pve)
@@ -839,6 +971,14 @@ dimwishlist:item=3107853529&perks=957782887,588594999
 //notes: tags:pve
 dimwishlist:item=3175851496&perks=3977735242,3927722942
 dimwishlist:item=3175851496&perks=2010801679,3927722942
+
+
+// Defiance of Yasmin (pvp)
+//notes: tags:pvp
+dimwishlist:item=3228096719&perks=957782887,588594999
+dimwishlist:item=3228096719&perks=957782887,47981717
+dimwishlist:item=3228096719&perks=2866798147,588594999
+dimwishlist:item=3228096719&perks=2866798147,47981717
 
 
 // Funnelweb - Max Range (god-pve)
@@ -1109,6 +1249,3 @@ dimwishlist:item=4225322581&perks=2420895100,1820235745,4104185692
 dimwishlist:item=4225322581&perks=1047830412,1428297954,3511092054
 
 
-// Without Remorse
-dimwishlist:item=1478986057&perks=1047830412,791862061,1583705720,4293542123
-dimwishlist:item=1478986057&perks=1047830412,791862061,2869569095,4293542123
